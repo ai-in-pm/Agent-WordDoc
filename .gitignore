@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Screenshots and temporary files
+src/bootstrap_training/word_interface/i_failed_logs/screenshots/
+
+# Debug files
+*.debug
+
+# Test and cache directories
+.pytest_cache/
+.coverage
+.tox/

@@ -1,0 +1,67 @@
+"""
+Example configuration file for the Word AI Agent
+"""
+
+api_key: "your_api_key_here"  # Required: Your API key for AI services
+typing_mode: "realistic"      # Typing behavior mode: fast, realistic, or slow
+verbose: true                 # Enable verbose output
+iterative: true              # Enable iterative processing
+self_improve: true           # Enable self-improvement
+self_evolve: true            # Enable self-evolution
+track_position: true         # Enable position tracking
+robot_cursor: true           # Show robot cursor during AI control
+use_autoit: true             # Use AutoIt for Windows automation
+delay: 1.0                   # Delay before starting (seconds)
+max_retries: 3               # Maximum number of retries on error
+retry_delay: 1.0             # Delay between retries (seconds)
+log_level: "INFO"            # Logging level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+# Advanced settings
+memory_size: 1000            # Maximum memory size for context
+batch_size: 100              # Number of documents to process in batch
+max_workers: 4               # Maximum number of concurrent workers
+
+# Performance settings
+cache_size: 1000             # Size of the cache
+rate_limit: 60               # Rate limit in requests per minute
+
+# Error handling settings
+error_threshold: 5           # Maximum number of errors before escalation
+retry_exponential_base: 2.0  # Base for exponential backoff
+max_retry_delay: 30.0        # Maximum delay between retries (seconds)
+
+# Document processing settings
+max_document_size: 1000000   # Maximum document size in bytes
+max_processing_time: 300     # Maximum processing time in seconds
+
+# Template settings
+template_directory: "templates"  # Directory for custom templates
+default_template: "academic_paper"  # Default template to use
+
+# Plugin settings
+plugin_directory: "plugins"    # Directory for plugins
+enabled_plugins:               # List of enabled plugins
+  - "spell_check"
+  - "grammar_check"
+  - "style_check"
+
+# Security settings
+api_key_encryption: true      # Enable API key encryption
+input_validation: true        # Enable input validation
+rate_limiting: true           # Enable rate limiting
+
+# Logging settings
+log_directory: "logs"         # Directory for log files
+log_rotation:                 # Log rotation settings
+  max_size: 10000000         # Maximum log file size (bytes)
+  max_files: 5               # Maximum number of log files
+  compression: "gz"          # Compression format for rotated logs
+
+# Monitoring settings
+performance_metrics: true     # Enable performance metrics collection
+monitoring_interval: 60      # Monitoring interval in seconds
+
+# Update settings
+auto_update: true            # Enable automatic updates
+update_check_interval: 3600  # Interval between update checks (seconds)
+update_source: "github"      # Source for updates (github, pypi, etc.)

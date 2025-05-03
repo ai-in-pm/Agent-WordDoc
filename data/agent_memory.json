@@ -1,0 +1,46 @@
+{
+  "memories": [
+    {
+      "content": "Document initialized with topic: Artificial Intelligence",
+      "memory_type": "document",
+      "metadata": {
+        "topic": "Artificial Intelligence",
+        "template": null
+      },
+      "importance": 0.9,
+      "timestamp": "2025-04-20T17:11:06.958227",
+      "last_accessed": "2025-04-20T17:11:06.958227",
+      "access_count": 0
+    },
+    {
+      "content": "Document 'Artificial Intelligence' has 8 sections: Abstract, Introduction, Literature Review, Key Concepts, Methodology, Results and Discussion, Conclusion, References",
+      "memory_type": "document",
+      "metadata": {
+        "title": "Artificial Intelligence",
+        "sections": [
+          "Abstract",
+          "Introduction",
+          "Literature Review",
+          "Key Concepts",
+          "Methodology",
+          "Results and Discussion",
+          "Conclusion",
+          "References"
+        ],
+        "current_section_index": 0
+      },
+      "importance": 0.9,
+      "timestamp": "2025-04-20T17:11:06.960692",
+      "last_accessed": "2025-04-20T17:11:06.960692",
+      "access_count": 0
+    },
+    {
+      "content": "Position: Title - Section #0 - P1 L1 C1",
+      "memory_type": "spatial",
+      "metadata": {
+        "section": "Title",
+        "section_index": 0,
+        "paragraph": 1,
+        "line": 1,
+        "character": 1,
+        "last_updated": 

@@ -1,0 +1,76 @@
+{
+  "capabilities": {
+    "analyze_document_structure": {
+      "name": "analyze_document_structure",
+      "description": "Analyze the structure of the current Word document",
+      "capability_type": "analysis",
+      "function_code": "def analyze_document_structure(self):\n    \"\"\"\n    Analyze the structure of the current Word document\n    \n    This capability analyzes document content or structure.\n    \"\"\"\n    print(f\"[ANALYSIS CAPABILITY] Executing analyze_document_structure\")\n    \n    # TODO: Implement Analyze the structure of the current Word document\n    \n    # Return analysis results\n    return {\n        \"success\": True,\n        \"results\": {},\n        \"timestamp\": datetime.datetime.now().isoformat()\n    }\n",
+      "stage": "conception",
+      "success_count": 0,
+      "failure_count": 0,
+      "version": 1,
+      "dependencies": [],
+      "metadata": {
+        "parameters": [],
+        "code_hints": {
+          "uses_word_interface": true,
+          "returns_structure": true
+        }
+      },
+      "created_at": "2025-04-04T12:02:39.952499",
+      "last_modified": "2025-04-04T12:02:39.952499",
+      "last_used": null,
+      "use_count": 0
+    },
+    "optimize_typing_behavior": {
+      "name": "optimize_typing_behavior",
+      "description": "Optimize typing behavior based on document type and content",
+      "capability_type": "adaptation",
+      "function_code": "def optimize_typing_behavior(self, document_type):\n    \"\"\"\n    Optimize typing behavior based on document type and content\n    \n    This capability adapts to different contexts or situations.\n    \"\"\"\n    print(f\"[ADAPTATION CAPABILITY] Executing optimize_typing_behavior\")\n    \n    # Get current context if available\n    context = None\n    if hasattr(self, 'understand_context') and callable(self.understand_context):\n        context = self.understand_context()\n    \n    # TODO: Implement Optimize typing behavior based on document type and content\n    \n    return True\n",
+      "stage": "conception",
+      "success_count": 0,
+      "failure_count": 0,
+      "version": 1,
+      "dependencies": [],
+      "metadata": {
+        "parameters": [
+          "document_type"
+        ],
+        "code_hints": {
+          "modifies_typing_speed": true,
+          "adapts_to_content": true
+        }
+      },
+      "created_at": "2025-04-04T12:02:39.970967",
+      "last_modified": "2025-04-04T12:02:39.970967",
+      "last_used": null,
+      "use_count": 0
+    },
+    "evolve_agent_behavior": {
+      "name": "evolve_agent_behavior",
+      "description": "Modify the agent's behavior based on performance analysis",
+      "capability_type": "meta",
+      "function_code": "def evolve_agent_behavior(self, behavior_area, modification_type):\n    \"\"\"\n    Modify the agent's behavior based on performance analysis\n    \n    This is a meta-capability that works with other capabilities.\n    \"\"\"\n    print(f\"[META CAPABILITY] Executing evolve_agent_behavior\")\n    \n    # Get available capabilities\n    capabilities = None\n    if hasattr(self, 'capability_registry') and hasattr(self.capability_registry, 'list_capabilities'):\n        capabilities = self.capability_registry.list_capabilities()\n    \n    # TODO: Implement Modify the agent's behavior based on performance analysis\n    \n    return True\n",
+      "stage": "conception",
+      "success_count": 0,
+      "failure_count": 0,
+      "version": 1,
+      "dependencies": [],
+      "metadata": {
+        "parameters": [
+          "behavior_area",
+          "modification_type"
+        ],
+        "code_hints": {
+          "self_modifying": true,
+          "requires_analysis": true
+        }
+      },
+      "created_at": "2025-04-04T12:02:39.992589",
+      "last_modified": "2025-04-04T12:02:39.992589",
+      "last_used": null,
+      "use_count": 0
+    }
+  },
+  "evolution_history": []
+}

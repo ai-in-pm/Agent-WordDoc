@@ -1,0 +1,1306 @@
+{
+  "tasks": {
+    "task_1743793369_8235": {
+      "id": "task_1743793369_8235",
+      "name": "Create document: Earned Value Management",
+      "description": "Create a new document titled 'Earned Value Management' with the following sections: Abstract, Introduction, Literature Review, Key Concepts, Methodology, Results and Discussion, Conclusion, References",
+      "parent_id": null,
+      "dependencies": [],
+      "estimated_steps": 10,
+      "metadata": {
+        "type": "document_creation",
+        "title": "Earned Value Management",
+        "sections": [
+          "Abstract",
+          "Introduction",
+          "Literature Review",
+          "Key Concepts",
+          "Methodology",
+          "Results and Discussion",
+          "Conclusion",
+          "References"
+        ]
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 10,
+      "created_at": "2025-04-04T12:02:49.748794",
+      "started_at": "2025-04-04T13:01:58.794204",
+      "completed_at": "2025-04-04T13:02:02.946732",
+      "subtasks": [
+        "task_1743793369_2856",
+        "task_1743793369_5351",
+        "task_1743793369_8157",
+        "task_1743793369_9648",
+        "task_1743793369_6954",
+        "task_1743793369_3658",
+        "task_1743793369_7710",
+        "task_1743793369_8581",
+        "task_1743793369_2067",
+        "task_1743793369_6253"
+      ],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:01:58.882999"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:00.105361"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:00.324516"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:00.648956"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:01.103250"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:01.591627"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:02.104270"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:02.327751"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:02.627801"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Earned Value Management",
+          "timestamp": "2025-04-04T13:02:02.934422"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:02.946531"
+        }
+      ],
+      "current_step_description": "Processed step for Create document: Earned Value Management"
+    },
+    "task_1743793369_2856": {
+      "id": "task_1743793369_2856",
+      "name": "Document setup",
+      "description": "Set up the document with title 'Earned Value Management' and prepare the structure",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 2,
+      "metadata": {
+        "type": "setup",
+        "parent_type": "document_creation"
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 2,
+      "created_at": "2025-04-04T12:02:49.821002",
+      "started_at": "2025-04-04T13:02:03.180105",
+      "completed_at": "2025-04-04T13:02:09.827599",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Set up the document and prepared structure",
+          "timestamp": "2025-04-04T13:02:06.382133"
+        },
+        {
+          "type": "step_completed",
+          "content": "Set up the document and prepared structure",
+          "timestamp": "2025-04-04T13:02:09.818161"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:09.827567"
+        }
+      ],
+      "current_step_description": "Set up the document and prepared structure"
+    },
+    "task_1743793369_5351": {
+      "id": "task_1743793369_5351",
+      "name": "Write section: Abstract",
+      "description": "Generate content for the 'Abstract' section. Write content for the Abstract section of the document.",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Abstract",
+        "content_description": "Write content for the Abstract section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.821040",
+      "started_at": "2025-04-04T13:02:10.045300",
+      "completed_at": "2025-04-04T13:02:10.667530",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Abstract",
+          "timestamp": "2025-04-04T13:02:10.102321"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Abstract",
+          "timestamp": "2025-04-04T13:02:10.368662"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Abstract",
+          "timestamp": "2025-04-04T13:02:10.655489"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:10.667503"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Abstract"
+    },
+    "task_1743793369_8157": {
+      "id": "task_1743793369_8157",
+      "name": "Write section: Introduction",
+      "description": "Generate content for the 'Introduction' section. Write content for the Introduction section of the document.",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Introduction",
+        "content_description": "Write content for the Introduction section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.821055",
+      "started_at": "2025-04-04T13:02:10.827504",
+      "completed_at": "2025-04-04T13:02:11.450848",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Introduction",
+          "timestamp": "2025-04-04T13:02:10.839047"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Introduction",
+          "timestamp": "2025-04-04T13:02:11.189914"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Introduction",
+          "timestamp": "2025-04-04T13:02:11.409916"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:11.450811"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Introduction"
+    },
+    "task_1743793369_9648": {
+      "id": "task_1743793369_9648",
+      "name": "Write section: Literature Review",
+      "description": "Generate content for the 'Literature Review' section. Write content for the Literature Review section of the document.",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Literature Review",
+        "content_description": "Write content for the Literature Review section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.821065",
+      "started_at": "2025-04-04T13:02:11.669942",
+      "completed_at": "2025-04-04T13:02:12.230438",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Literature Review",
+          "timestamp": "2025-04-04T13:02:11.727082"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Literature Review",
+          "timestamp": "2025-04-04T13:02:11.952693"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Literature Review",
+          "timestamp": "2025-04-04T13:02:12.216540"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:12.230404"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Literature Review"
+    },
+    "task_1743793369_6954": {
+      "id": "task_1743793369_6954",
+      "name": "Write section: Key Concepts",
+      "description": "Generate content for the 'Key Concepts' section. Write content for the Key Concepts section of the document.",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Key Concepts",
+        "content_description": "Write content for the Key Concepts section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.821074",
+      "started_at": "2025-04-04T13:02:12.487793",
+      "completed_at": "2025-04-04T13:02:13.143208",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Key Concepts",
+          "timestamp": "2025-04-04T13:02:12.533320"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Key Concepts",
+          "timestamp": "2025-04-04T13:02:12.873635"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Key Concepts",
+          "timestamp": "2025-04-04T13:02:13.126082"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:13.143180"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Key Concepts"
+    },
+    "task_1743793369_3658": {
+      "id": "task_1743793369_3658",
+      "name": "Write section: Methodology",
+      "description": "Generate content for the 'Methodology' section. Write content for the Methodology section of the document.",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Methodology",
+        "content_description": "Write content for the Methodology section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.821086",
+      "started_at": "2025-04-04T13:02:13.372957",
+      "completed_at": "2025-04-04T13:02:13.904395",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Methodology",
+          "timestamp": "2025-04-04T13:02:13.389456"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Methodology",
+          "timestamp": "2025-04-04T13:02:13.626084"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Methodology",
+          "timestamp": "2025-04-04T13:02:13.872000"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:13.904362"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Methodology"
+    },
+    "task_1743793369_7710": {
+      "id": "task_1743793369_7710",
+      "name": "Write section: Results and Discussion",
+      "description": "Generate content for the 'Results and Discussion' section. Write content for the Results and Discussion section of the document.",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Results and Discussion",
+        "content_description": "Write content for the Results and Discussion section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.821096",
+      "started_at": "2025-04-04T13:02:14.120999",
+      "completed_at": "2025-04-04T13:02:14.785961",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Results and Discussion",
+          "timestamp": "2025-04-04T13:02:14.139666"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Results and Discussion",
+          "timestamp": "2025-04-04T13:02:14.469937"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Results and Discussion",
+          "timestamp": "2025-04-04T13:02:14.749258"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:14.785934"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Results and Discussion"
+    },
+    "task_1743793369_8581": {
+      "id": "task_1743793369_8581",
+      "name": "Write section: Conclusion",
+      "description": "Generate content for the 'Conclusion' section. Write content for the Conclusion section of the document.",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Conclusion",
+        "content_description": "Write content for the Conclusion section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.821104",
+      "started_at": "2025-04-04T13:02:15.026126",
+      "completed_at": "2025-04-04T13:02:15.629417",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Conclusion",
+          "timestamp": "2025-04-04T13:02:15.109578"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Conclusion",
+          "timestamp": "2025-04-04T13:02:15.412228"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Conclusion",
+          "timestamp": "2025-04-04T13:02:15.616736"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:15.629389"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Conclusion"
+    },
+    "task_1743793369_2067": {
+      "id": "task_1743793369_2067",
+      "name": "Write section: References",
+      "description": "Generate content for the 'References' section. Write content for the References section of the document.",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "References",
+        "content_description": "Write content for the References section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.822354",
+      "started_at": "2025-04-04T13:02:15.865035",
+      "completed_at": "2025-04-04T13:02:16.376983",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: References",
+          "timestamp": "2025-04-04T13:02:15.877186"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: References",
+          "timestamp": "2025-04-04T13:02:16.141817"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: References",
+          "timestamp": "2025-04-04T13:02:16.362836"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:16.376957"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: References"
+    },
+    "task_1743793369_6253": {
+      "id": "task_1743793369_6253",
+      "name": "Review and finalize",
+      "description": "Review the entire document and make final adjustments",
+      "parent_id": "task_1743793369_8235",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "review",
+        "parent_type": "document_creation"
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T12:02:49.822499",
+      "started_at": "2025-04-04T13:02:16.619998",
+      "completed_at": "2025-04-04T13:02:17.190483",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Reviewed and finalized the document",
+          "timestamp": "2025-04-04T13:02:16.643822"
+        },
+        {
+          "type": "step_completed",
+          "content": "Reviewed and finalized the document",
+          "timestamp": "2025-04-04T13:02:16.866507"
+        },
+        {
+          "type": "step_completed",
+          "content": "Reviewed and finalized the document",
+          "timestamp": "2025-04-04T13:02:17.165420"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-04T13:02:17.190451"
+        }
+      ],
+      "current_step_description": "Reviewed and finalized the document"
+    },
+    "task_1743797233_9989": {
+      "id": "task_1743797233_9989",
+      "name": "Create document: Artificial Intelligence",
+      "description": "Create a new document titled 'Artificial Intelligence' with the following sections: Abstract, Introduction, Literature Review, Key Concepts, Methodology, Results and Discussion, Conclusion, References",
+      "parent_id": null,
+      "dependencies": [],
+      "estimated_steps": 10,
+      "metadata": {
+        "type": "document_creation",
+        "title": "Artificial Intelligence",
+        "sections": [
+          "Abstract",
+          "Introduction",
+          "Literature Review",
+          "Key Concepts",
+          "Methodology",
+          "Results and Discussion",
+          "Conclusion",
+          "References"
+        ]
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 10,
+      "created_at": "2025-04-04T13:07:13.141035",
+      "started_at": "2025-04-06T14:29:35.298492",
+      "completed_at": "2025-04-06T14:29:39.764520",
+      "subtasks": [
+        "task_1743797233_9407",
+        "task_1743797233_5246",
+        "task_1743797233_2173",
+        "task_1743797233_2402",
+        "task_1743797233_6312",
+        "task_1743797233_5380",
+        "task_1743797233_0008",
+        "task_1743797233_1985",
+        "task_1743797233_0701",
+        "task_1743797233_5540"
+      ],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:35.312676"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:36.021462"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:36.605883"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:36.975525"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:37.538002"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:37.967970"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:38.280122"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:38.677270"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:39.220285"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Create document: Artificial Intelligence",
+          "timestamp": "2025-04-06T14:29:39.615388"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:39.764484"
+        }
+      ],
+      "current_step_description": "Processed step for Create document: Artificial Intelligence"
+    },
+    "task_1743797233_9407": {
+      "id": "task_1743797233_9407",
+      "name": "Document setup",
+      "description": "Set up the document with title 'Artificial Intelligence' and prepare the structure",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 2,
+      "metadata": {
+        "type": "setup",
+        "parent_type": "document_creation"
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 2,
+      "created_at": "2025-04-04T13:07:13.159716",
+      "started_at": "2025-04-06T14:29:40.471139",
+      "completed_at": "2025-04-06T14:29:47.561137",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Set up the document and prepared structure",
+          "timestamp": "2025-04-06T14:29:44.305809"
+        },
+        {
+          "type": "step_completed",
+          "content": "Set up the document and prepared structure",
+          "timestamp": "2025-04-06T14:29:47.553154"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:47.561111"
+        }
+      ],
+      "current_step_description": "Set up the document and prepared structure"
+    },
+    "task_1743797233_5246": {
+      "id": "task_1743797233_5246",
+      "name": "Write section: Abstract",
+      "description": "Generate content for the 'Abstract' section. Write content for the Abstract section of the document.",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Abstract",
+        "content_description": "Write content for the Abstract section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159740",
+      "started_at": "2025-04-06T14:29:47.766367",
+      "completed_at": "2025-04-06T14:29:47.989665",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Abstract",
+          "timestamp": "2025-04-06T14:29:47.773058"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Abstract",
+          "timestamp": "2025-04-06T14:29:47.881741"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Abstract",
+          "timestamp": "2025-04-06T14:29:47.979568"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:47.989644"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Abstract"
+    },
+    "task_1743797233_2173": {
+      "id": "task_1743797233_2173",
+      "name": "Write section: Introduction",
+      "description": "Generate content for the 'Introduction' section. Write content for the Introduction section of the document.",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Introduction",
+        "content_description": "Write content for the Introduction section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159753",
+      "started_at": "2025-04-06T14:29:48.090646",
+      "completed_at": "2025-04-06T14:29:48.302104",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Introduction",
+          "timestamp": "2025-04-06T14:29:48.099481"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Introduction",
+          "timestamp": "2025-04-06T14:29:48.203763"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Introduction",
+          "timestamp": "2025-04-06T14:29:48.295323"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:48.302090"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Introduction"
+    },
+    "task_1743797233_2402": {
+      "id": "task_1743797233_2402",
+      "name": "Write section: Literature Review",
+      "description": "Generate content for the 'Literature Review' section. Write content for the Literature Review section of the document.",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Literature Review",
+        "content_description": "Write content for the Literature Review section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159761",
+      "started_at": "2025-04-06T14:29:48.385969",
+      "completed_at": "2025-04-06T14:29:48.591319",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Literature Review",
+          "timestamp": "2025-04-06T14:29:48.392827"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Literature Review",
+          "timestamp": "2025-04-06T14:29:48.481546"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Literature Review",
+          "timestamp": "2025-04-06T14:29:48.579448"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:48.591297"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Literature Review"
+    },
+    "task_1743797233_6312": {
+      "id": "task_1743797233_6312",
+      "name": "Write section: Key Concepts",
+      "description": "Generate content for the 'Key Concepts' section. Write content for the Key Concepts section of the document.",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Key Concepts",
+        "content_description": "Write content for the Key Concepts section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159767",
+      "started_at": "2025-04-06T14:29:48.703294",
+      "completed_at": "2025-04-06T14:29:48.941643",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Key Concepts",
+          "timestamp": "2025-04-06T14:29:48.712780"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Key Concepts",
+          "timestamp": "2025-04-06T14:29:48.822865"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Key Concepts",
+          "timestamp": "2025-04-06T14:29:48.931822"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:48.941624"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Key Concepts"
+    },
+    "task_1743797233_5380": {
+      "id": "task_1743797233_5380",
+      "name": "Write section: Methodology",
+      "description": "Generate content for the 'Methodology' section. Write content for the Methodology section of the document.",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Methodology",
+        "content_description": "Write content for the Methodology section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159774",
+      "started_at": "2025-04-06T14:29:49.032630",
+      "completed_at": "2025-04-06T14:29:49.244303",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Methodology",
+          "timestamp": "2025-04-06T14:29:49.039778"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Methodology",
+          "timestamp": "2025-04-06T14:29:49.140756"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Methodology",
+          "timestamp": "2025-04-06T14:29:49.236821"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:49.244282"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Methodology"
+    },
+    "task_1743797233_0008": {
+      "id": "task_1743797233_0008",
+      "name": "Write section: Results and Discussion",
+      "description": "Generate content for the 'Results and Discussion' section. Write content for the Results and Discussion section of the document.",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Results and Discussion",
+        "content_description": "Write content for the Results and Discussion section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159781",
+      "started_at": "2025-04-06T14:29:49.338872",
+      "completed_at": "2025-04-06T14:29:49.549287",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Results and Discussion",
+          "timestamp": "2025-04-06T14:29:49.347745"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Results and Discussion",
+          "timestamp": "2025-04-06T14:29:49.443983"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Results and Discussion",
+          "timestamp": "2025-04-06T14:29:49.538751"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:49.549274"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Results and Discussion"
+    },
+    "task_1743797233_1985": {
+      "id": "task_1743797233_1985",
+      "name": "Write section: Conclusion",
+      "description": "Generate content for the 'Conclusion' section. Write content for the Conclusion section of the document.",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Conclusion",
+        "content_description": "Write content for the Conclusion section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159787",
+      "started_at": "2025-04-06T14:29:49.637921",
+      "completed_at": "2025-04-06T14:29:49.860712",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Conclusion",
+          "timestamp": "2025-04-06T14:29:49.645704"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Conclusion",
+          "timestamp": "2025-04-06T14:29:49.746874"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: Conclusion",
+          "timestamp": "2025-04-06T14:29:49.850612"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:49.860691"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: Conclusion"
+    },
+    "task_1743797233_0701": {
+      "id": "task_1743797233_0701",
+      "name": "Write section: References",
+      "description": "Generate content for the 'References' section. Write content for the References section of the document.",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "References",
+        "content_description": "Write content for the References section of the document."
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159794",
+      "started_at": "2025-04-06T14:29:49.954019",
+      "completed_at": "2025-04-06T14:29:50.156867",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: References",
+          "timestamp": "2025-04-06T14:29:49.963299"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: References",
+          "timestamp": "2025-04-06T14:29:50.059289"
+        },
+        {
+          "type": "step_completed",
+          "content": "Processed step for Write section: References",
+          "timestamp": "2025-04-06T14:29:50.149356"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:50.156851"
+        }
+      ],
+      "current_step_description": "Processed step for Write section: References"
+    },
+    "task_1743797233_5540": {
+      "id": "task_1743797233_5540",
+      "name": "Review and finalize",
+      "description": "Review the entire document and make final adjustments",
+      "parent_id": "task_1743797233_9989",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "review",
+        "parent_type": "document_creation"
+      },
+      "status": "completed",
+      "progress": 1.0,
+      "steps_completed": 3,
+      "created_at": "2025-04-04T13:07:13.159801",
+      "started_at": "2025-04-06T14:29:50.247584",
+      "completed_at": "2025-04-06T14:29:50.460648",
+      "subtasks": [],
+      "notes": [
+        {
+          "type": "step_completed",
+          "content": "Reviewed and finalized the document",
+          "timestamp": "2025-04-06T14:29:50.255573"
+        },
+        {
+          "type": "step_completed",
+          "content": "Reviewed and finalized the document",
+          "timestamp": "2025-04-06T14:29:50.354888"
+        },
+        {
+          "type": "step_completed",
+          "content": "Reviewed and finalized the document",
+          "timestamp": "2025-04-06T14:29:50.451670"
+        },
+        {
+          "type": "completion",
+          "content": "Completed all steps",
+          "timestamp": "2025-04-06T14:29:50.460626"
+        }
+      ],
+      "current_step_description": "Reviewed and finalized the document"
+    },
+    "task_1744338318_9199": {
+      "id": "task_1744338318_9199",
+      "name": "Create document: Earned Value Management",
+      "description": "Create a new document titled 'Earned Value Management' with the following sections: Abstract, Introduction, Literature Review, Key Concepts, Methodology, Results and Discussion, Conclusion, References",
+      "parent_id": null,
+      "dependencies": [],
+      "estimated_steps": 10,
+      "metadata": {
+        "type": "document_creation",
+        "title": "Earned Value Management",
+        "sections": [
+          "Abstract",
+          "Introduction",
+          "Literature Review",
+          "Key Concepts",
+          "Methodology",
+          "Results and Discussion",
+          "Conclusion",
+          "References"
+        ]
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.360008",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [
+        "task_1744338318_0800",
+        "task_1744338318_5021",
+        "task_1744338318_6267",
+        "task_1744338318_2392",
+        "task_1744338318_3383",
+        "task_1744338318_4520",
+        "task_1744338318_4130",
+        "task_1744338318_2080",
+        "task_1744338318_6028",
+        "task_1744338318_8749"
+      ],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_0800": {
+      "id": "task_1744338318_0800",
+      "name": "Document setup",
+      "description": "Set up the document with title 'Earned Value Management' and prepare the structure",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 2,
+      "metadata": {
+        "type": "setup",
+        "parent_type": "document_creation"
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.427953",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_5021": {
+      "id": "task_1744338318_5021",
+      "name": "Write section: Abstract",
+      "description": "Generate content for the 'Abstract' section. Write content for the Abstract section of the document.",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Abstract",
+        "content_description": "Write content for the Abstract section of the document."
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.427977",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_6267": {
+      "id": "task_1744338318_6267",
+      "name": "Write section: Introduction",
+      "description": "Generate content for the 'Introduction' section. Write content for the Introduction section of the document.",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Introduction",
+        "content_description": "Write content for the Introduction section of the document."
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.427988",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_2392": {
+      "id": "task_1744338318_2392",
+      "name": "Write section: Literature Review",
+      "description": "Generate content for the 'Literature Review' section. Write content for the Literature Review section of the document.",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Literature Review",
+        "content_description": "Write content for the Literature Review section of the document."
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.427994",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_3383": {
+      "id": "task_1744338318_3383",
+      "name": "Write section: Key Concepts",
+      "description": "Generate content for the 'Key Concepts' section. Write content for the Key Concepts section of the document.",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Key Concepts",
+        "content_description": "Write content for the Key Concepts section of the document."
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.428000",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_4520": {
+      "id": "task_1744338318_4520",
+      "name": "Write section: Methodology",
+      "description": "Generate content for the 'Methodology' section. Write content for the Methodology section of the document.",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Methodology",
+        "content_description": "Write content for the Methodology section of the document."
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.428007",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_4130": {
+      "id": "task_1744338318_4130",
+      "name": "Write section: Results and Discussion",
+      "description": "Generate content for the 'Results and Discussion' section. Write content for the Results and Discussion section of the document.",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Results and Discussion",
+        "content_description": "Write content for the Results and Discussion section of the document."
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.428013",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_2080": {
+      "id": "task_1744338318_2080",
+      "name": "Write section: Conclusion",
+      "description": "Generate content for the 'Conclusion' section. Write content for the Conclusion section of the document.",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "Conclusion",
+        "content_description": "Write content for the Conclusion section of the document."
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.428020",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_6028": {
+      "id": "task_1744338318_6028",
+      "name": "Write section: References",
+      "description": "Generate content for the 'References' section. Write content for the References section of the document.",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "content_generation",
+        "section_name": "References",
+        "content_description": "Write content for the References section of the document."
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.428025",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    },
+    "task_1744338318_8749": {
+      "id": "task_1744338318_8749",
+      "name": "Review and finalize",
+      "description": "Review the entire document and make final adjustments",
+      "parent_id": "task_1744338318_9199",
+      "dependencies": [],
+      "estimated_steps": 3,
+      "metadata": {
+        "type": "review",
+        "parent_type": "document_creation"
+      },
+      "status": "pending",
+      "progress": 0.0,
+      "steps_completed": 0,
+      "created_at": "2025-04-10T19:25:18.428044",
+      "started_at": null,
+      "completed_at": null,
+      "subtasks": [],
+      "notes": [],
+      "current_step_description": ""
+    }
+  }
+}
