@@ -4,6 +4,8 @@ This AI-powered system generates comprehensive academic papers by directly typin
 
 ![Agent WordDoc Icon](src/images/agent_worddoc_icon.png)
 
+https://github.com/user-attachments/assets/624d548d-dcb2-468d-bd56-6c4cf77431b7
+
 ## Enhanced Features
 
 ### Core Architecture
