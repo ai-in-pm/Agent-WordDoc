@@ -215,6 +215,9 @@ You can also use the provided shortcut:
 C:\Users\USERNAME\OneDrive\Desktop\AI_Shortcuts\AgentWordDoc\AgentWordDoc_WordExplorer.lnk
 ```
 
+![image](https://github.com/user-attachments/assets/a3508a09-44c6-4818-8419-796efa42b784)
+![image2](https://github.com/user-attachments/assets/fb6a2388-697e-4f06-b0f7-d29c5af00c7a)
+
 #### Explorer Features
 
 **Demonstration Modes:**
