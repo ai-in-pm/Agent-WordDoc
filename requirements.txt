@@ -1,5 +1,5 @@
 python-docx==0.8.11
-requests==2.31.0
+requests==2.32.4
 python-dotenv==1.0.0
 pyautogui==0.9.54
 keyboard==0.13.5
